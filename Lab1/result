@@ -1,0 +1,15 @@
+ Static hostname: ephy-QEMU-Virtual-Machine
+       Icon name: computer-vm
+         Chassis: vm 🖴
+      Machine ID: cd43892951fe4746bbc28f6ed017990f
+         Boot ID: ebc693fe72224d208000f1dace94abc4
+  Virtualization: qemu
+Operating System: Ubuntu 24.04.3 LTS
+          Kernel: Linux 6.14.0-29-generic
+    Architecture: arm64
+ Hardware Vendor: QEMU
+  Hardware Model: QEMU Virtual Machine
+Firmware Version: 0.0.0
+   Firmware Date: Fri 2015-02-06
+    Firmware Age: 10y 7month 3w 3d
+911cb45b13a9c338bec7091834fe7b8714e8f779  -
